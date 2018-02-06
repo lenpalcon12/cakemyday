@@ -1,0 +1,39 @@
+/*
+.row > div {
+            background-color: #bde7b8;
+            box-shadow: inset 1px -1px 1px gray, inset -1px 1px 1px gray;
+        }
+*/
+
+body {
+  background-image: url(http://thegymnasium.com/c4x/GYM/003/asset/hoKTifO.png);
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+
+
+header {
+  background-color:#c8ece3;
+}
+
+
+
+footer dt {
+  float:left;
+  width:50%;
+}
+
+
+
+#intro {
+  background-color:#b934a2 ;
+  color:white; 
+  padding-top: 5px;
+}
+
+
+
+#freecupcake, #featuredcupcake {
+  background-color:rgba(255, 255, 255, 0.57);
+}
+
